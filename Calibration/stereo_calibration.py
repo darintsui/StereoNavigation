@@ -5,7 +5,7 @@ import os
 
 
 """
-Find chessboard corners, object points, and image points
+Find checkerboard corners, object points, and image points
 """
 dir = os.path.dirname(os.path.realpath(__file__))
 chessboardSize = (9,6)
