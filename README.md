@@ -4,7 +4,7 @@
 This repository contains code for the paper:
 
 _"A low-cost, open-source based optical surgical
-navigation system using stereoscopic vision"_, Darin Tsui, Capalina Melentyev, Kirsten Ramos, Matthew Tam, Mitsuhiro Jo, Frank E. Talke.
+navigation system using stereoscopic vision"_, Darin Tsui, Capalina Melentyev, Kirsten Ramos, Ananya Rajan, Matthew Tam, Mitsuhiro Jo, Frank E. Talke.
 
 ### Calibration
 
